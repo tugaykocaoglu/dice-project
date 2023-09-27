@@ -1,1 +1,1 @@
-# dice-project
+# DICE PROJECT
